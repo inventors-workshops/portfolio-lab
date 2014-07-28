@@ -1,0 +1,20 @@
+
+body {
+    padding-top: 20px;
+}
+
+.img-thumbnail {
+    background: #EEE;
+}
+
+    .img-thumbnail img {
+        width: 100%;   
+    }
+
+.separated {
+    margin-bottom: 20px;
+}
+
+.separated:last-child {
+    margin-bottom: 0;
+}
